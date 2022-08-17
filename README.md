@@ -2,7 +2,7 @@
 
 **SimpleTweet** is an android app that allows a user to view his Twitter timeline. The app utilizes [Twitter REST API](https://dev.twitter.com/rest/public).
 
-Time spent: **7** hours spent in total
+Time spent: **13** hours spent in total
 
 ## User Stories
 
@@ -22,20 +22,29 @@ The following **optional** features are implemented:
 - [ ] User can tap a tweet to display a "detailed" view of that tweet
 - [ ] User can see embedded image media within the tweet detail view
 - [ ] User can watch embedded video within the tweet
-- [ ] User can open the twitter app offline and see last loaded tweets
+- [X] User can open the twitter app offline and see last loaded tweets
 - [ ] On the Twitter timeline, leverage the CoordinatorLayout to apply scrolling behavior that hides / shows the toolbar.
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough
+## Video Walkthrough 1
 
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/pascodev7/SimpleTweet/blob/master/SimpleTweet1_Walkthrough_Submitted.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with Phone screen-gif creator and Licecap.
+
+
+## Video Walkthrough 2
+
+Here's a walkthrough of implemented user stories in the second part of the app development (SimpleTweet part 2):
+
+<img src='https://github.com/pascodev7/SimpleTweet/blob/master/SimpleTweet2_Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+GIF created with Phone screen-gif creator and Licecap.
+
 
 ## Notes
 
